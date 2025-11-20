@@ -1,2 +1,5 @@
 # workshop_607
-Variabler, klasser och moduler js
+Variables, classes, modules JS
+
+### Did the exercise solo
+Styling CSS in html this time.
